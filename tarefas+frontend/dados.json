@@ -1,0 +1,22 @@
+[
+    {
+        "ID": "001",
+        "Nome": "São Paulo"
+    },
+    {
+        "ID": "002",
+        "Nome": "Rio de Janeiro"
+    },
+    {
+        "ID": "003",
+        "Nome": "Minas Gerais"
+    },
+    {
+        "ID": "004",
+        "Nome": "Curitiba"
+    },
+    {
+        "ID": "005",
+        "Nome": "Porto Alegre"
+    }
+]
